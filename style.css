@@ -1,0 +1,41 @@
+.main {
+    background-color: rgb(196, 245, 245);
+    height: 900px;
+    width: 400px;
+    border-radius: 12px;
+}
+.elements {
+    background-color: whitesmoke;
+    border-radius: 18px;
+    height: 780px;
+    width: 300px;
+   margin-left: 30px;
+   padding: 20px;
+}
+.user-input {
+    border-radius: 8px;
+    height: 30px;
+    width: 250px;
+    border-style: solid;
+    border-color: blanchedalmond;
+    font-weight: soild;
+    font-size: 20px;
+}
+.title {
+    text-align: center;
+    color: blueviolet;
+}
+.button1 {
+    border-radius: 8px;
+    height: 40px;
+    width: 70px;
+    background-color: rgb(98, 98, 234);
+    color: aliceblue;
+    border-style: solid;
+    border-color: rgb(126, 126, 160);
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.button2 {
+   font-family: "Roboto";
+  }
